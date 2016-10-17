@@ -1,0 +1,31 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="HelloWorldJavaFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/HelloWorldJavaFX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="alias" value="android" />
+        <option name="appClass" value="youga.Main" />
+        <option name="description" value="" />
+        <option name="enabledSigning" value="true" />
+        <option name="htmlParamFile" value="" />
+        <option name="keypass" value="MTM5MzQ5" />
+        <option name="keystore" value="E:\AndroidLocal\KeyStore\android.jks" />
+        <option name="nativeBundle" value="all" />
+        <option name="paramFile" value="" />
+        <option name="selfSigning" value="false" />
+        <option name="storepass" value="MTM5MzQ5" />
+        <option name="title" value="YougaLunar" />
+        <option name="updateMode" value="always" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="HelloWorldJavaFX.jar">
+        <element id="module-output" name="HelloWorldJavaFX" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
